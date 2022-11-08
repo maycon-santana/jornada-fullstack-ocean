@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/maycon-santana/jornada-fullstack-ocean/issues"
   },
-  "homepage": "https://github.com/maycon-santana/jornada-fullstack-ocean#readme"
+  "homepage": "https://github.com/maycon-santana/jornada-fullstack-ocean#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
